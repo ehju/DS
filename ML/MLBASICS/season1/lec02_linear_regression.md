@@ -21,6 +21,9 @@ https://hunkim.github.io/ml/
 ### 어떤 모델 / hypothesis 가 가장 좋은가?
 
 #### Cost function
+
+모델을 평가할 방법
+
 ![image](https://user-images.githubusercontent.com/13077196/158550768-4d67c9e7-ecb3-46d6-898d-b4359c599467.png)
 
 실제 값과 가설에서 세운 값의 차이를 제곱 한 값을 평균냄 ( + - 효과 없앰)
